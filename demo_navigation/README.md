@@ -1,7 +1,7 @@
 # Demo Navigation - 无人机导航与避障训练
 
 ## 效果演示（6000000 steps）
-![6000000-step-demo](./demo_results/train_step_4000000.gif)
+![4000000-step-demo](./demo_results/train_step_4000000.gif)
 
 ![6000000-step-curves](./demo_results/training_curves.png)
 
